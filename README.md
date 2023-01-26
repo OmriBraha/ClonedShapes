@@ -1,4 +1,4 @@
-<h1>📐 Geometric Shapes Hierarchy Program</h1>
+<h1>📐 Geometric Shapes Hierarchy</h1>
 
 <p>
   <img src="https://img.shields.io/badge/language-Java-orange.svg" alt="Java">
